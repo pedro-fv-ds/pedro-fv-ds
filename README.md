@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro-fv-ds
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data analysis with python
+- 🌱 I’m currently working as a Data Engineer
 - 📫 How to reach me pedrofagundesv@gmail.com
 
 <!---
